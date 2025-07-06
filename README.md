@@ -13,5 +13,8 @@ Script to analyse server performance stats using Bash
 chmod +x server-stats.sh
 ./server-stats.sh
 
-##Project URL:
+##Github Repository Url URL:
 https://github.com/ymrohith/server-performance-stats
+
+##Project URL:
+https://roadmap.sh/projects/server-stats
